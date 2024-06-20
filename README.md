@@ -1,3 +1,3 @@
 # CLI Trivia Game in TypeScript
 
-Run app with: npm run dev
+Run app with: `npm run dev`
