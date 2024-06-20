@@ -1,0 +1,22 @@
+{
+  "name": "countries-cli-trivia-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^20.14.4",
+    "date-fns": "^3.6.0",
+    "fs": "^0.0.1-security",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
