@@ -1,3 +1,9 @@
 # CLI Trivia Game in TypeScript
 
-Run app with: `npm run dev`
+Instructions:
+```
+npm install
+npm run build
+npm start
+[PRESS CONTROL + C TO QUIT]
+```
